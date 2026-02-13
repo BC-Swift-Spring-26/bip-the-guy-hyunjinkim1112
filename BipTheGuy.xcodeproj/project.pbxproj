@@ -10,22 +10,9 @@
 		C8EA3F972F3A76DE006504AE /* BipTheGuy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BipTheGuy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		C8EA3FA62F3A77D3006504AE /* Exceptions for "BipTheGuy" folder in "BipTheGuy" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = C8EA3F962F3A76DE006504AE /* BipTheGuy */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		C8EA3F992F3A76DE006504AE /* BipTheGuy */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				C8EA3FA62F3A77D3006504AE /* Exceptions for "BipTheGuy" folder in "BipTheGuy" target */,
-			);
 			path = BipTheGuy;
 			sourceTree = "<group>";
 		};
